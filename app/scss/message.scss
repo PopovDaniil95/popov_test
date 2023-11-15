@@ -1,0 +1,19 @@
+.message__user {
+  max-width: 75%;
+  justify-self: start;
+  margin-left: 20px;
+  padding: 5px;
+  border: 1px solid white;
+  border-radius: 10px;
+  background: rgb(37, 44, 62);
+}
+
+.message__my {
+  max-width: 75%;
+  justify-self: end;
+  margin-right: 20px;
+  padding: 5px;
+  border: 1px solid white;
+  border-radius: 10px;
+  background: rgb(91, 102, 131);
+}
